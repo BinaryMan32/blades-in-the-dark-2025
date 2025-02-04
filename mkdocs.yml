@@ -2,6 +2,10 @@ site_name: Blades in the Dark
 site_url: https://binaryman32.github.io/blades-in-the-dark-2025
 repo_url: https://github.com/BinaryMan32/blades-in-the-dark-2025
 edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+watch:
+  - main.py
 theme:
   name: material
   palette:
@@ -15,14 +19,19 @@ theme:
   features:
     - content.action.edit
     - navigation.indexes
+    - navigation.tabs
     - search.suggest
     - search.highlight
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
 plugins:
   - autolinks
   - blog:
       blog_dir: journal
+  - macros
   - search
