@@ -1,6 +1,5 @@
 site_name: Blades in the Dark
-# TODO UPDATE URL
-# site_url: https://mydomain.org/mysite
+site_url: https://binaryman32.github.io/blades-in-the-dark-2025
 repo_url: https://github.com/BinaryMan32/blades-in-the-dark-2025
 edit_uri: edit/main/docs/
 theme:
