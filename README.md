@@ -1,5 +1,7 @@
 # Blades in the Dark 2025
 
+Published at https://binaryman32.github.io/blades-in-the-dark-2025
+
 Documentation is built as a static site using [mkdocs][] and the [material][mkdocs-material] theme.
 If you want to do something else, check the [mkdocs catalog][mkdocs-catalog].
 
