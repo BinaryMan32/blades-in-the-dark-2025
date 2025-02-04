@@ -14,14 +14,3 @@ theme:
 plugins:
   - blog:
       blog_dir: journal
-nav:
-  - Journal:
-    - journal/index.md
-  - Characters:
-    - characters/index.md
-  - People:
-    - people/index.md
-  - Places:
-    - places/index.md
-  - Factions:
-    - factions/index.md
