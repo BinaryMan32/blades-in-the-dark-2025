@@ -3,7 +3,7 @@
 Published at https://binaryman32.github.io/blades-in-the-dark-2025
 
 Documentation is built as a static site using [mkdocs][] and the [material][mkdocs-material] theme.
-If you want to do something else, check the [mkdocs catalog][mkdocs-catalog].
+If you want to do something that it doesn't support, check the [mkdocs catalog][mkdocs-catalog] for plugins.
 
 [mkdocs]: https://www.mkdocs.org/
 [mkdocs-material]: https://squidfunk.github.io/mkdocs-material
