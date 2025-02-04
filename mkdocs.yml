@@ -1,6 +1,8 @@
 site_name: Blades in the Dark
 # TODO UPDATE URL
 # site_url: https://mydomain.org/mysite
+repo_url: https://github.com/BinaryMan32/blades-in-the-dark-2025
+edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
@@ -8,8 +10,11 @@ theme:
     primary: deep purple
     accent: purple
   icon:
+    edit: material/lead-pencil 
     logo: material/sword-cross
+    repo: fontawesome/brands/github
   features:
+    - content.action.edit
     - navigation.indexes
     - search.suggest
     - search.highlight
