@@ -11,7 +11,10 @@ theme:
     logo: material/sword-cross
   features:
     - navigation.indexes
+    - search.suggest
+    - search.highlight
 plugins:
   - autolinks
   - blog:
       blog_dir: journal
+  - search
