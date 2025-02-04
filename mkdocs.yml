@@ -1,0 +1,27 @@
+site_name: Blades in the Dark
+# TODO UPDATE URL
+# site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  icon:
+    logo: material/sword-cross
+  features:
+    - navigation.indexes
+plugins:
+  - blog:
+      blog_dir: journal
+nav:
+  - Journal:
+    - journal/index.md
+  - Characters:
+    - characters/index.md
+  - People:
+    - people/index.md
+  - Places:
+    - places/index.md
+  - Factions:
+    - factions/index.md
