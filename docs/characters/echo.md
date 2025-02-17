@@ -1,6 +1,8 @@
 ---
 alias: Echo
 controller: F
+tags:
+    - todo
 ---
 # "Echo" Cassian Hallow
 
