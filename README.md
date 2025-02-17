@@ -28,3 +28,12 @@ mkdocs serve
 ```sh
 ./preview-docker.sh
 ```
+
+## Pre-commit
+
+Use `pre-commit` to find broken links before committing.
+
+```sh
+sudo apt install pre-commit
+pre-commit install
+```
