@@ -39,6 +39,7 @@ plugins:
       ignore_links_to:
         - index.md
         - journal/*.md
+        - journal/posts/*.md
   - blog:
       blog_dir: journal
   - search
