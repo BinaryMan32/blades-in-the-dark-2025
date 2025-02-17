@@ -5,6 +5,7 @@ edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css
 watch:
+  - data/
   - main.py
 theme:
   name: material
@@ -30,6 +31,9 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
+  - macros:
+      include_yaml:
+        - characters: data/characters.yaml
   - autolinks
   - backlinks_section:
       ignore_links_from:
@@ -38,7 +42,6 @@ plugins:
         - journal/**/*.md
   - blog:
       blog_dir: journal
-  - macros
   - search
 validation:
   omitted_files: warn
