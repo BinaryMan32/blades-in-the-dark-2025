@@ -36,10 +36,9 @@ plugins:
         - characters: data/characters.yaml
   - autolinks
   - backlinks_section:
-      ignore_links_from:
-        - index.md
       ignore_links_to:
-        - journal/**/*.md
+        - index.md
+        - journal/*.md
   - blog:
       blog_dir: journal
   - search
