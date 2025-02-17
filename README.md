@@ -1,6 +1,6 @@
 # Blades in the Dark 2025
 
-Published at https://binaryman32.github.io/blades-in-the-dark-2025
+Published at [https://binaryman32.github.io/blades-in-the-dark-2025]
 
 Documentation is built as a static site using [mkdocs][] and the [material][mkdocs-material] theme.
 If you want to do something that it doesn't support, check the [mkdocs catalog][mkdocs-catalog] for plugins.
@@ -12,11 +12,13 @@ If you want to do something that it doesn't support, check the [mkdocs catalog][
 ## Local Preview with Virtualenv
 
 Create virtualenv:
+
 ```sh
 python3 -m venv .venv/ && source .venv/bin/activate && pip3 install -r requirements.txt
 ```
 
 Preview:
+
 ```sh
 mkdocs serve
 ```
