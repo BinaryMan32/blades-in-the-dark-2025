@@ -1,3 +1,15 @@
 .coin {
   color: gold
 }
+.tier0 {
+  color: gray
+}
+.tier1 {
+  color: brown
+}
+.tier2 {
+  color: silver
+}
+.tier3 {
+  color: gold
+}

@@ -11,6 +11,31 @@ def define_env(env: MacrosPlugin):
     def coin(amount):
         return f'`{amount}`{COIN_ICON}'
 
+    HEAT_ICON = ':fire:'
+
+    @env.macro
+    def heat(amount):
+        return f'`{amount}`{HEAT_ICON}'
+
+    def tier_icon(amount):
+        return f':fontawesome-solid-trophy:{{ .tier{amount} }}'
+
+    @env.macro
+    def tier(amount):
+        return f'`{amount}`{tier_icon(amount)}'
+
+    @env.macro
+    def experience(amount):
+        return f'`{amount}`:scroll:'
+
+    @env.macro
+    def reputation(amount):
+        return f'`{amount}`:material-sword-cross:'
+
+    @env.macro
+    def stress(amount):
+        return f'`{amount}`:fontawesome-solid-heart-crack:'
+
     def character_link(character):
         return f'[{character["name"]}]({character["url"]})'
 
