@@ -1,9 +1,10 @@
----
-alias: Hex
-controller: PK
-tags:
-    - todo
----
 # "Hex" Willem Cash
 
 ![Hex Portrait](./hex.jpg){ width="500" align=left }
+
+- **Name:** Willem Cash
+- **Alias:** Hex
+- **Look:** N/A
+- **Heritage:** Iruvia
+- **Background:** Underworld
+- **Vice:** Pleasure - Harvale Brogan - Centraulia Club, Brightstone
