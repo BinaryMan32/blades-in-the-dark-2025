@@ -36,6 +36,10 @@ def define_env(env: MacrosPlugin):
     def stress(amount):
         return f'`{amount}`:fontawesome-solid-heart-crack:'
 
+    @env.macro
+    def d6_roll(number):
+        return f'`{number}`:game_die:'
+
     def character_link(character):
         return f'[{character["name"]}]({character["url"]})'
 
