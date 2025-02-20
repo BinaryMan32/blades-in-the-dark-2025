@@ -38,7 +38,10 @@ def define_env(env: MacrosPlugin):
 
     @env.macro
     def d6_roll(number):
-        return f'`{number}`:game_die:'
+        if 1 <= number <= 6:
+            return f'`{number}`:material-dice-{number}:'
+        else:
+            return f'`{number}`:game_die:'
 
     def character_link(character):
         return f'[{character["name"]}]({character["url"]})'
