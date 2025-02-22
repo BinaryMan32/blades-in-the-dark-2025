@@ -8,3 +8,5 @@
 - **Heritage:** Skovlan: Left after war ended
 - **Background:** Military: Sapper
 - **Vice:** Obligation: Members of former military unit
+- **Friends:** N/A
+- **Rivals:** [Eckerd](eckerd.md)

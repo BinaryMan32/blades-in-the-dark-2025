@@ -43,6 +43,11 @@ def define_env(env: MacrosPlugin):
         else:
             return f'`{number}`:game_die:'
 
+    @env.macro
+    def d6_rolls(numbers, lowest=False):
+        op, extra = (min, '(lowest) ') if lowest else (max, '')
+        return '[' + ', '.join([d6_roll(n) for n in numbers]) + '] `=` ' + extra + d6_roll(op(numbers))
+
     def character_link(character):
         return f'[{character["name"]}]({character["url"]})'
 

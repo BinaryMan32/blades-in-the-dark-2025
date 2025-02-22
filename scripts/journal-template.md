@@ -28,7 +28,7 @@ Available plans (for reference, delete this section)
 
 - TODO
 
-## Results
+## Payoff
 
 - crew earns {{ coin(0) }}
 - crew earns {{ reputation(0) }} Reputation

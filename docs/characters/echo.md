@@ -8,5 +8,7 @@
 - **Heritage:** The Dagger Isles
 - **Background:** Underworld
 - **Vice:** Obligation - Cyphers - must spend time translating or delivering messages
+- **Friends:** N/A
+- **Rivals:** N/A
 
 Echo is being blackmailed by an underworld acquaintance from the Dagger Isles.

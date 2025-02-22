@@ -8,3 +8,5 @@
 - **Heritage:** Akros
 - **Background:** Law
 - **Vice:** Weird - [Salia](salia.md) (The Reconciled)
+- **Friends:** [Nyryx](nyryx.md)
+- **Rivals:** N/A

@@ -77,7 +77,7 @@ The treasury is in [Crow's Foot](crows-foot.md) in the red sash sword academy, h
 - {{ characters.echo.link }} persuaded a romantic encounter to give a secret entrance into the garden
     - for a future meetup
 
-## Results
+## Payoff
 
 - we keep {{ coin(10) }}
     - this is a **Major Score**
@@ -113,16 +113,16 @@ The treasury is in [Crow's Foot](crows-foot.md) in the red sash sword academy, h
 ## Downtime
 
 - {{ characters.echo.link }}
-    - removes `1` heat by bribing a blue coat to destroy some evidence
+    - removes {{ heat(1) }} by bribing a blue coat to destroy some evidence
     - tries to repair the relationship with his spurned lover
 - {{ characters.hex.link }}
     - works on project to make a silencer
-    - removes `1` heat by intimidating the lead investigator
+    - removes {{ heat(1) }} by intimidating the lead investigator
 - {{ characters.jackal.link }}
-    - removes `1` heat by spreading a rumor about [Lampblacks](lampblacks.md) hitting the [Red Sashes](red-sashes.md)
+    - removes {{ heat(1) }} by spreading a rumor about [Lampblacks](lampblacks.md) hitting the [Red Sashes](red-sashes.md)
     - earns coin
 - {{ characters.jb.link }}
-    - talks to a noble, piggybacking on {{ characters.jackal.link }}'s rumor
+    - removes {{ heat(1) }} by talking to a noble, piggybacking on {{ characters.jackal.link }}'s rumor
     - earns coin
 - {{ characters.vesper.link }}
     - plans revenge on [Rolan Watt](rolan-watt.md)
