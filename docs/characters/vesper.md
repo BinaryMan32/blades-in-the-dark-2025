@@ -7,4 +7,4 @@
 - **Look:** Medium-toned skin color, dark hair, hazel eyes, average build, slightly worn tailored attire
 - **Heritage:** Akros
 - **Background:** Law
-- **Vice:** Weird/Salia (The Reconciled)
+- **Vice:** Weird - [Salia](salia.md) (The Reconciled)

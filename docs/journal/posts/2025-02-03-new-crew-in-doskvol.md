@@ -17,7 +17,7 @@ The treasury is in [Crow's Foot](crows-foot.md) in the red sash sword academy, h
 
 - **Plan:** Occult
 - **Detail:** using the ghost field
-- {{ characters.vesper.link }}'s friend [Celia](celia.md) tries to help with ghosts
+- {{ characters.vesper.link }}'s friend [Salia](salia.md) tries to help with ghosts
 - there's a party, the place is busy tonight
 - before arriving, we followed some people and stole their invitations ({{ stress(1) }} for {{ characters.hex.link }})
 
