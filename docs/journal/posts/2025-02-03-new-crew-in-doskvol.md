@@ -80,8 +80,10 @@ The treasury is in [Crow's Foot](crows-foot.md) in the red sash sword academy, h
 ## Results
 
 - we keep {{ coin(10) }}
-      - this is a **Major Score**
+    - this is a **Major Score**
 - we pay {{ coin(2) }} to [Bazoes](bazoes.md)
+- spent {{ coin(6) }} on crew quarters
+    - {{ characters.vesper.link }} paid the extra {{ coin(1) }}
 - crew earns {{ reputation(3) }}
     - {{ reputation(2) }} for mission
     - {{ reputation(1) }} since [Red Sashes](red-sashes.md) are {{ tier(2) }} and we are {{ tier(0) }}
