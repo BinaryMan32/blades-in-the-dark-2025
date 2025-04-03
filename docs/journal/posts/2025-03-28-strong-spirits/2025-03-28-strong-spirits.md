@@ -142,7 +142,8 @@ We travel to the edge of the city where {{ characters.jb.link }} can get us thro
     - {{ coin(1) }} {{ characters.jb.link }}
     - {{ coin(1) }} {{ characters.vesper.link }}
 - spend `2` upgrades to acquire a cohort
-    - rooks `Ghost Fang Pack`
+    - rooks [Ghostfang Pack](ghostfang-pack.md)
+        - con artists, spies, and socialites
         - loyal, tenacious
         - wild, principled
     - we're tier `1` now!
