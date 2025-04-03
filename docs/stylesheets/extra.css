@@ -7,6 +7,18 @@
 .coin {
   color: gold
 }
+.outcome-critical {
+  color: greenyellow
+}
+.outcome-full {
+  color: green
+}
+.outcome-partial {
+  color: yellow
+}
+.outcome-bad {
+  color: maroon
+}
 .tier0 {
   color: gray
 }
