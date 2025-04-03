@@ -1,5 +1,7 @@
 ---
 date: 2025-02-03
+categories:
+  - Score
 ---
 # New Crew in Doskvol
 

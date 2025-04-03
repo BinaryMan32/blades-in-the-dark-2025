@@ -45,6 +45,9 @@ plugins:
         - journal/posts/*.md
   - blog:
       blog_dir: journal
+      categories_allowed:
+        - Free Play
+        - Score
   - search
   - tags
 validation:

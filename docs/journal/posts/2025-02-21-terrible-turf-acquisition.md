@@ -1,5 +1,7 @@
 ---
 date: 2025-02-21
+categories:
+  - Score
 ---
 # Terrible Turf Acquisition
 
