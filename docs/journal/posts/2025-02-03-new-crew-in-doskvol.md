@@ -5,7 +5,7 @@ categories:
 ---
 # New Crew in Doskvol
 
-[Bella's Boys](bellas-boys.md) are in the office of [Bazoes](bazoes.md), leader of [The Lampblacks](lampblacks.md).
+[Bella's Boyz](bellas-boyz.md) are in the office of [Bazoes](bazoes.md), leader of [The Lampblacks](lampblacks.md).
 Our crew establed a hideout in his territory and stole the trainer from [The Lampblacks](lampblacks.md), making [Bazoes](bazoes.md) wary of us.
 He wants to test us with a mission to see if we're trustworthy.
 [Bazoes](bazoes.md) will provide the location of the [Red Sashes](red-sashes.md) treasury of {{ coin(12) }}.

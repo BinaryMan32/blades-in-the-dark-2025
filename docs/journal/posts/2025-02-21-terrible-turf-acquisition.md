@@ -5,7 +5,7 @@ categories:
 ---
 # Terrible Turf Acquisition
 
-[Bella's Boys](bellas-boys.md) are looking to acquire more turf.
+[Bella's Boyz](bellas-boyz.md) are looking to acquire more turf.
 They're eyeing some nearby territory controlled by the [Fog Hounds](fog-hounds.md) in [The Docks](docks.md).
 
 <!-- more -->
@@ -41,7 +41,7 @@ Zarak and Ash made some noises to draw attention to us swooping in to take their
         - {{ characters.vesper.link }} tries to convince them to shoot Zarak and Ash {{ d6_rolls([2, 6, 4, 5]) }}
             - Zarak and Ash are vaporized
 - {{ characters.echo.link }} and {{ characters.jb.link }} try to convince the [Spirit Warden](spirit-wardens.md) that the ghost killed him {{ d6_rolls([2, 2]) }}
-    - he instantly recognizes us as members of [Bella's Boys](bellas-boys.md) and calls for guards
+    - he instantly recognizes us as members of [Bella's Boyz](bellas-boyz.md) and calls for guards
     - {{ characters.jb.link }} takes out a bat and tries to whack the spirit warden
         - {{ characters.vesper.link }} distracts by calling out a ghost is nearby
 - {{ characters.jb.link }} gets shot
