@@ -5,8 +5,8 @@ categories:
 ---
 # Hex Confronts Melvir
 
-- {{ characters.hex.link }} goes looking for [Melvir](melvir.md) to show him what happens when you cross [Bella's Boyz](bellas-boyz.md).
-- {{ characters.hex.link }} approaches his apartment and the lock is broken.
+{{ characters.hex.link }} goes looking for [Melvir](melvir.md) to show him what happens when you cross [Bella's Boyz](bellas-boyz.md).
+{{ characters.hex.link }} approaches his apartment and the lock is broken.
 
 <!-- more -->
 
