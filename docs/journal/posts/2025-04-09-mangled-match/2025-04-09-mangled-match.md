@@ -104,11 +104,6 @@ Bella's Boyz at the Fight
 {{ characters.jb.link }}, {{ characters.echo.link }}, and {{ characters.jackal.link }} Steal the Evidence
 ///
 
-![Echo Dreams of the Whole Crew Helping the Cyphers](./echo-sharing-vice.png)
-/// caption
-{{ characters.echo.link }} Dreams of the Whole Crew Helping the Cyphers
-///
-
 - {{ characters.jb.link }} uses ghost veil to sneak out with {{ characters.echo.link }} and {{ characters.jackal.link }}
     - pulls us through the wall onto the street
     - a pair of goats pulling a cart runs over {{ characters.jackal.link }}
@@ -176,6 +171,11 @@ Bella's Boyz at the Fight
 ![Echo Captured by the Blue Coats](./echo-over-indulge.png)
 /// caption
 {{ characters.echo.link }} Captured by the [Blue Coats](blue-coats.md)
+///
+
+![Echo Dreams of the Whole Crew Helping the Cyphers](./echo-sharing-vice.png)
+/// caption
+{{ characters.echo.link }} Dreams of the Whole Crew Helping the Cyphers
 ///
 
 - {{ characters.hex.link }}
