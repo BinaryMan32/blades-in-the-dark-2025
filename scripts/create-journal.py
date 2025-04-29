@@ -13,7 +13,9 @@ def read_template(name):
 
 def write_journal(template: string.Template, journal_date: datetime.date):
     date_string = journal_date.isoformat()
-    journal_path = os.path.join('docs', 'journal', 'posts', f'{date_string}.md')
+    journal_dir = os.path.join('docs', 'journal', 'posts', date_string)
+    os.makedirs(journal_dir, exist_ok=True)
+    journal_path = os.path.join(journal_dir, f'{date_string}.md')
     if os.path.exists(journal_path):
         print(f'File "{journal_path}" exists, aborting')
         exit(1)
