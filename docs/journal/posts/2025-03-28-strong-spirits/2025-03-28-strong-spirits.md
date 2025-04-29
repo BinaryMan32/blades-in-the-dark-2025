@@ -102,7 +102,7 @@ We travel to the edge of the city where {{ characters.jb.link }} can get us thro
     - {{ heat(1) }} for being at war
 - {{ experience(0)}} Crew XP
 - Faction status
-    - Faction `+0`
+    - no changes
 
 ## Entanglements
 

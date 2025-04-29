@@ -35,6 +35,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - macros:
+      include_dir: include
       include_yaml:
         - characters: data/characters.yaml
   - autolinks

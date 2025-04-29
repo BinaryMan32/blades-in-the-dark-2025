@@ -1,4 +1,10 @@
+---
+stats:
+    tier: 4
+---
 # Spirit Wardens
+
+{% include 'faction-stats.md' %}
 
 Have goggles which can see ghosts and batons which can stun them.
 
