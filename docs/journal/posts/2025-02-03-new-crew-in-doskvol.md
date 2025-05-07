@@ -127,7 +127,7 @@ The treasury is in [Crow's Foot](crows-foot.md) in the red sash sword academy, h
     - removes {{ heat(1) }} by talking to a noble, piggybacking on {{ characters.jackal.link }}'s rumor
     - earns coin
 - {{ characters.vesper.link }}
-    - plans revenge on [Rolan Watt](rolan-watt.md)
+    - plans revenge on [Rolan Wott](rolan-wott.md)
 
 ## Next Time
 
