@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+import argparse
 import datetime
 import os
 import pathlib
@@ -11,11 +13,11 @@ def read_template(name):
         return string.Template(f.read())
 
 
-def write_journal(template: string.Template, journal_date: datetime.date):
+def write_journal(template: string.Template, journal_date: datetime.date, category: str):
     date_string = journal_date.isoformat()
-    journal_dir = os.path.join('docs', 'journal', 'posts', date_string)
+    journal_dir = os.path.join('docs', 'journal', 'posts', f'{date_string}-{category}')
     os.makedirs(journal_dir, exist_ok=True)
-    journal_path = os.path.join(journal_dir, f'{date_string}.md')
+    journal_path = os.path.join(journal_dir, f'{date_string}-{category}.md')
     if os.path.exists(journal_path):
         print(f'File "{journal_path}" exists, aborting')
         exit(1)
@@ -25,9 +27,26 @@ def write_journal(template: string.Template, journal_date: datetime.date):
 
 
 def main():
-    template = read_template('journal-template.md')
-    today = datetime.date.today()
-    write_journal(template, today)
+    parser = argparse.ArgumentParser(description='Create a new journal entry')
+    parser.add_argument(
+        '-d', '--date',
+        type=datetime.date.fromisoformat,
+        metavar='YYYY-MM-DD',
+        help='Date of the journal entry',
+        default=datetime.date.today()
+    )
+    parser.add_argument(
+        'category',
+        type=str,
+        choices=['score', 'free'],
+        help='Journal category determines the template used'
+    )
+    args = parser.parse_args()
+
+    template_name = f'journal-template-{args.category}.md'
+    template = read_template(template_name)
+
+    write_journal(template, args.date, args.category)
 
 
 if __name__ == '__main__':

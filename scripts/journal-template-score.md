@@ -1,7 +1,9 @@
 ---
 date: $DATE
+categories:
+  - Score
 ---
-# Title
+# $DATE Score
 
 TODO Intro
 
