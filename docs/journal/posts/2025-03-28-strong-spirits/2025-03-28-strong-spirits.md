@@ -11,12 +11,12 @@ We're at war with the [Spirit Wardens](spirit-wardens.md) and trying to find a w
 
 The [Spirit Wardens](spirit-wardens.md) have quite a few enemies, but they're all pretty strong.
 
-{{ characters.vesper.link }} has a prostitute friend who works with high end clientele.
+{{ characters.vesper.link }} has a prostitute friend [Nyryx](nyryx.md) who works with high end clientele.
 She will see what she can find out about them.
 
 Maybe we can improve relations by dealing with a troublesome spirit?
 We can force a spirit into a spirit bottle using a spiritbane charm.
-We talk to Fitz and are able to borrow one.
+We talk to [Fitz](fitz.md) and are able to borrow one.
 
 We travel to the edge of the city where {{ characters.jb.link }} can get us through the barrier keeping spirits out into the [Death Lands](death-lands.md).
 
