@@ -1,5 +1,5 @@
 ---
-date: $DATE
+date: ${DATE}T00:00:00
 categories:
   - Free Play
 ---

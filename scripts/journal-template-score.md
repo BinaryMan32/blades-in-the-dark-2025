@@ -1,5 +1,5 @@
 ---
-date: $DATE
+date: ${DATE}T00:01:00
 categories:
   - Score
 ---
