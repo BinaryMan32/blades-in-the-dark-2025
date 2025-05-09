@@ -1,5 +1,7 @@
 # Lady Freyla
 
+![Lady Freyla](./lady-freyla.png){ align=left }
+
 The finest sommolier in [Doskvol](../places/doskvol/index.md).
 
 - testified against {{ characters.vesper.link }}.

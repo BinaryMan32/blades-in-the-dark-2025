@@ -2,5 +2,4 @@
 
 ![Fitz](./fitz.png){ align=left }
 
-- Publicly known as a collector
-- Privately, loyal fence of [Bella's Boyz](bellas-boyz.md)
+- A collector who occasionally helps [Bella's Boyz](bellas-boyz.md)

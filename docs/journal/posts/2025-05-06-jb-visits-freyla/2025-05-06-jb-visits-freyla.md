@@ -1,5 +1,5 @@
 ---
-date: 2025-05-06
+date: 2025-05-06T00:00:00
 categories:
   - Free Play
 ---

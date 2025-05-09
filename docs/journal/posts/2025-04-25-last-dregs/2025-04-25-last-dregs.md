@@ -217,7 +217,7 @@ Monkey plays the cymbals, [Lady Freyla](lady-freyla.md) is not amused.
 - fortune roll {{ d6_rolls([4, 2]) }}
     - {{ heat(2) }} [Spirit Wardens](spirit-wardens.md) figure out [Salia](salia.md)'s connection to [Bella's Boyz](bellas-boyz.md)
 
-![Spirit Wardens Take Salia](./spirit-wardens-take-selia.png)
+![Spirit Wardens Take Salia](./spirit-wardens-take-salia.png)
 /// caption
 [Spirit Wardens](spirit-wardens.md) Take [Salia](salia.md)
 ///
