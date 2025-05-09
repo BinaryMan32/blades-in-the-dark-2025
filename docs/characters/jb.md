@@ -1,6 +1,10 @@
 # "JB" Jonathan Bach
 
-![JB Portrait](./jb.jpg){ width="500" align=left }
+<div class="grid" markdown>
+
+![JB Portrait](./jb.png){ align=left }
+
+<div markdown>
 
 - **Name:** Jonathan Bach
 - **Alias:** JB
@@ -13,3 +17,13 @@
 
 An academic who recently became a criminal.
 Wants to figure out why ghosts can't rest after death.
+
+</div>
+</div>
+
+## Action Figure
+
+![Action figure](./jb-action-figure.png)
+/// caption
+Limited edition action figure
+///

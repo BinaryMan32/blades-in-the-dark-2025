@@ -1,6 +1,10 @@
 # "Vesper" Carrin Mercer
 
-![Vesper Portrait](./vesper.webp){ width="500" align=left }
+<div class="grid" markdown>
+
+![Vesper Portrait](./vesper.png){ align=left }
+
+<div markdown>
 
 - **Name:** Carrin Mercer
 - **Alias:** Vesper
@@ -10,3 +14,13 @@
 - **Vice:** Weird - [Salia](salia.md) (The Reconciled)
 - **Friends:** [Nyryx](nyryx.md)
 - **Rivals:** N/A
+
+</div>
+</div>
+
+## Action Figure
+
+![Action figure](./vesper-action-figure.png)
+/// caption
+Limited edition action figure
+///

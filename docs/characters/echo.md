@@ -1,6 +1,10 @@
 # "Echo" Cassian Hallow
 
-![Echo Portrait](./echo.webp){ width="500" align=left }
+<div class="grid" markdown>
+
+![Echo Portrait](./echo.png)
+
+<div markdown>
 
 - **Name:** Cassian Hallow
 - **Alias:** Echo
@@ -12,3 +16,13 @@
 - **Rivals:** N/A
 
 Echo is being blackmailed by an underworld acquaintance from the Dagger Isles.
+
+</div>
+</div>
+
+## Action Figure
+
+![Action figure](./echo-action-figure.png)
+/// caption
+Limited edition action figure
+///

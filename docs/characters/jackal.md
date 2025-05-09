@@ -1,6 +1,10 @@
 # "Jackal" Basset Comber
 
-![Jackal Portrait](./jackal.jpg){ width="500" align=left }
+<div class="grid" markdown>
+
+![Jackal Portrait](./jackal.png){ align=left }
+
+<div markdown>
 
 - **Name:** Basset Comber
 - **Alias:** Jackal
@@ -10,3 +14,13 @@
 - **Vice:** Obligation: Members of former military unit
 - **Friends:** N/A
 - **Rivals:** [Eckerd](eckerd.md)
+
+</div>
+</div>
+
+## Action Figure
+
+![Action figure](./jackal-action-figure.png)
+/// caption
+Limited edition action figure
+///

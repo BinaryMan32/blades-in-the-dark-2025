@@ -1,6 +1,10 @@
 # "Hex" Willem Cash
 
-![Hex Portrait](./hex.jpg){ width="500" align=left }
+<div class="grid" markdown>
+
+![Hex Portrait](./hex.png){ align=left }
+
+<div markdown>
 
 - **Name:** Willem Cash
 - **Alias:** Hex
@@ -12,3 +16,18 @@
 - **Rivals:** N/A
 
 His sniper rifle is named **Bertha**.
+
+</div>
+</div>
+
+![Hex with mask](./hex-mask.png)
+/// caption
+Hex is often seen wearing a mask
+///
+
+## Action Figure
+
+![Action figure](./hex-action-figure.png)
+/// caption
+Limited edition action figure
+///
