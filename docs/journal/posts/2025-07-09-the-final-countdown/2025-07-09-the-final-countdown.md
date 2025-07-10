@@ -144,6 +144,12 @@ Meanwhile, the [Dockfront Bruisers](dockfront-bruisers.md) watch the river to ma
     - the device is complicated and would take a long time to disable
     - we find the power source
     - small metal box with a blue crystal floating inside
+
+![Jackal, Echo, and Vesper discover the spirit field's power source](./crystal-find.png)
+/// caption
+{{ characters.jackal.link }}, {{ characters.echo.link }}, and {{ characters.vesper.link }} discover the spirit field's power source
+///
+
 - {{ characters.jackal.link }} tries to break open the power supply box
     - {{ characters.vesper.link }} assists
     - {{ d6_rolls([2, 2, 2, 6, 4, 6]) }}
@@ -235,9 +241,14 @@ Meanwhile, the [Dockfront Bruisers](dockfront-bruisers.md) watch the river to ma
     - would have been a level 2 harm, but {{ characters.echo.link }} resists
     - takes a level 1 harm instead - bruised rib
 
-![Echo detonate the third barrier pylon, distracted by Vesper's words of encouragement](./barrier-detonate-echo.png)
+<table markdown>
+<tr markdown>
+<td markdown>![Echo detonates the third barrier pylon, distracted by Vesper's words of encouragement](./barrier-detonate-echo-1.png)</td>
+<td markdown>![Echo is is slammed into the ground by the blast](./barrier-detonate-echo-2.png)</td>
+</tr>
+</table>
 /// caption
-{{ characters.echo.link }} detonates the third barrier pylon, distracted by {{ characters.vesper.link }}'s words of encouragement
+{{ characters.echo.link }} detonates the third barrier pylon, distracted by {{ characters.vesper.link }}'s words of encouragement, and is slammed into the ground by the blast
 ///
 
 - {{ characters.hex.link }} goes to the last barrier pylon
