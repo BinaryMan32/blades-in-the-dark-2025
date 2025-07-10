@@ -3,7 +3,7 @@ date: 2025-06-16T00:01:00
 categories:
   - Score
 ---
-# Sashes Ashes
+# Sashes to Ashes
 
 It's been a month since the last score.
 The [Red Sashes](red-sashes.md) are still spread thin from fighting the [Lampblacks](lampblacks.md).
