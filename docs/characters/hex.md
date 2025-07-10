@@ -16,6 +16,7 @@
 - **Rivals:** N/A
 
 His sniper rifle is named **Bertha**.
+He has a brother named [Gex](gex.md).
 
 </div>
 </div>
