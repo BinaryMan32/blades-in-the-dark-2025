@@ -3,7 +3,7 @@ date: 2025-06-24T00:02:00
 categories:
   - Score
 ---
-# 2025-06-24 Possession is the Law
+# Possession is the Law
 
 {{ characters.echo.link }}, {{ characters.jackal.link }}, and {{ characters.vesper.link }} are in prison.
 The death penalty seems possible.
