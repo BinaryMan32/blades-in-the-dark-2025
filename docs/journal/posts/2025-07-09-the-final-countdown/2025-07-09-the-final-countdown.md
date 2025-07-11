@@ -297,6 +297,10 @@ Meanwhile, the [Dockfront Bruisers](dockfront-bruisers.md) watch the river to ma
 {{ characters.jb.link }} guides the spirits as they rampage through [Whitecrown](whitecrown.md)
 ///
 
+<video controls>
+<source src="../../../../2025-07-09-the-final-countdown/spirits-rampage.mp4" type="video/mp4">
+</video>
+
 - one of the [Crows](crows.md) sends a signal
     - the bridge explodes and collapses into the water
 - {{ characters.jb.link }} collapses from exertion
